@@ -1,4 +1,2 @@
-To be updated soon!
-
-
-Latest development can be foud here: https://github.com/Neeratyoy/DEHB
+# DEHB
+#### DEHB: Evolutionary Hyberband for Scalable, Robust and Efficient Hyperparameter Optimization
