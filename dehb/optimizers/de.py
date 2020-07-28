@@ -3,7 +3,7 @@ import ConfigSpace
 
 
 class DEBase():
-    '''Base class for Differential Evolution
+    '''Base class for Differential Evolution which can Handle mixed data types
     '''
     def __init__(self, cs=None, f=None, dimensions=None, pop_size=None, max_age=None,
                  mutation_factor=None, crossover_prob=None, strategy=None, budget=None,
